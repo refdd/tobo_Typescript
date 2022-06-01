@@ -1,5 +1,9 @@
 {
-  "include": ["src", "types"],
+  "include": [
+    "src",
+    "types",
+    "dist/index.js"
+  ],
   "compilerOptions": {
     "module": "esnext",
     "target": "esnext",
